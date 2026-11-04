@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/aryaysuf/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="24" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/aryayusufkaran" target="_blank">
+  <a href="https://www.linkedin.com/in/aryayusufkaran" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="24" alt="linkedin logo"  />
   </a>
 </div>
