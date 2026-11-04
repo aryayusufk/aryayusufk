@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Junior Front-End Web Developer and UI/UX Designer with a passion for crafting seamless and visually appealing user experiences. Currently pursuing a degree in Computer Science where I'm deepening my understanding of software development, design principles, and emerging web technologies.</p>
+<p align="left">Computer Science graduate with a passion for Web Development and UI/UX Design. Experienced in building responsive web applications using Laravel, React.js, and Tailwind CSS, as well as designing intuitive user interfaces with Figma. Passionate about creating functional, user-centered digital experiences and continuously exploring new technologies.</p>
 
 ###
 
@@ -54,8 +54,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryayusufk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryayusufk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=aryayusufk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
